@@ -24,6 +24,6 @@ Steps to run the automation test :
 
 
 
-there is a SmokeTest.java file with the code for the automation test in case anyone needs to look in to that.
+There is a SmokeTest.java file with the code for the automation test in case anyone needs to look in to that.
 
 All the tests are ranked on severity too, P0 being the most critical severity and going up to signify less severity on the site tested.
